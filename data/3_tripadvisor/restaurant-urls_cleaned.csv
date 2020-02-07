@@ -1,0 +1,352 @@
+city_name,rest_name,location,ta_url,match_score,ta_name
+chicago,42 Grams,chicago,https://www.tripadvisor.com/Restaurant_Review-g35805-d6903164-Reviews-42_Grams-Chicago_Illinois.html,100,42 Grams
+chicago,Acadia,chicago,https://www.tripadvisor.com/Restaurant_Review-g35805-d2511209-Reviews-Acadia-Chicago_Illinois.html,100,Acadia
+chicago,Alinea,chicago,https://www.tripadvisor.com/Restaurant_Review-g35805-d570063-Reviews-Alinea-Chicago_Illinois.html,100,Alinea
+chicago,Avenues,chicago,,80,Avenue M
+chicago,Band of Bohemia,chicago,https://www.tripadvisor.com/Restaurant_Review-g35805-d9456255-Reviews-Band_of_Bohemia-Chicago_Illinois.html,100,Band of Bohemia
+chicago,Blackbird,chicago,https://www.tripadvisor.com/Restaurant_Review-g35805-d427790-Reviews-Blackbird-Chicago_Illinois.html,100,Blackbird
+chicago,Boka,chicago,https://www.tripadvisor.com/Restaurant_Review-g35805-d430770-Reviews-Boka_Restaurant-Chicago_Illinois.html,100,Boka Restaurant
+chicago,Bonsoirée,chicago,,31,"Table, Donkey and Stick"
+chicago,Charlie Trotter's,chicago,https://www.tripadvisor.com/Restaurant_Review-g35805-d455927-Reviews-Charlie_Trotter_s-Chicago_Illinois.html,100,Charlie Trotter's
+chicago,Courtright's,chicago,https://www.tripadvisor.com/Restaurant_Review-g36887-d445188-Reviews-Courtright_s_Restaurant-Willow_Springs_Illinois.html,100,Courtright's Restaurant
+chicago,Crofton on Wells,chicago,https://www.tripadvisor.com/Restaurant_Review-g35805-d427782-Reviews-Crofton_on_Wells-Chicago_Illinois.html,100,Crofton on Wells
+chicago,Dusek's Board & Beer,chicago,https://www.tripadvisor.com/Restaurant_Review-g35805-d5114172-Reviews-Dusek_s_Board_Beer-Chicago_Illinois.html,100,Dusek's Board & Beer
+chicago,EL Ideas,chicago,https://www.tripadvisor.com/Restaurant_Review-g35805-d3138832-Reviews-EL_Ideas-Chicago_Illinois.html,100,EL Ideas
+chicago,Elizabeth,chicago,https://www.tripadvisor.com/Restaurant_Review-g35805-d3653167-Reviews-Elizabeth-Chicago_Illinois.html,100,Elizabeth
+chicago,Elske,chicago,https://www.tripadvisor.com/Restaurant_Review-g35805-d11896298-Reviews-Elske-Chicago_Illinois.html,100,Elske
+chicago,Entente,chicago,https://www.tripadvisor.com/Restaurant_Review-g35805-d11745934-Reviews-Entente-Chicago_Illinois.html,100,Entente
+chicago,Everest,chicago,https://www.tripadvisor.com/Restaurant_Review-g35805-d427796-Reviews-Everest-Chicago_Illinois.html,100,Everest
+chicago,Goosefoot,chicago,https://www.tripadvisor.com/Restaurant_Review-g35805-d2453785-Reviews-Goosefoot-Chicago_Illinois.html,100,Goosefoot
+chicago,Grace,chicago,https://www.tripadvisor.com/Restaurant_Review-g36920-d17432629-Reviews-Grace-Yorkville_Illinois.html,100,Grace
+chicago,Graham Elliot,chicago,https://www.tripadvisor.com/Restaurant_Review-g35805-d1068591-Reviews-Graham_Elliot-Chicago_Illinois.html,100,Graham Elliot
+chicago,GreenRiver,chicago,https://www.tripadvisor.com/Restaurant_Review-g35805-d8835069-Reviews-GreenRiver-Chicago_Illinois.html,100,GreenRiver
+chicago,Kikko,chicago,https://www.tripadvisor.com/Restaurant_Review-g35805-d17562898-Reviews-Kumiko-Chicago_Illinois.html,73,Kumiko
+chicago,L2O,chicago,https://www.tripadvisor.com/Restaurant_Review-g35805-d1308802-Reviews-L2O-Chicago_Illinois.html,100,L2O
+chicago,Longman & Eagle,chicago,https://www.tripadvisor.com/Restaurant_Review-g35805-d429152-Reviews-Longman_Eagle-Chicago_Illinois.html,100,Longman & Eagle
+chicago,Mako,chicago,https://www.tripadvisor.com/Restaurant_Review-g35805-d19081731-Reviews-Mako-Chicago_Illinois.html,100,Mako
+chicago,Mexique,chicago,https://www.tripadvisor.com/Restaurant_Review-g35805-d1091679-Reviews-Mexique-Chicago_Illinois.html,100,Mexique
+chicago,Moto,chicago,https://www.tripadvisor.com/Restaurant_Review-g35805-d429370-Reviews-Moto-Chicago_Illinois.html,100,Moto
+chicago,NAHA,chicago,https://www.tripadvisor.com/Restaurant_Review-g35805-d427814-Reviews-Naha-Chicago_Illinois.html,100,Naha
+chicago,Next,chicago,https://www.tripadvisor.com/Restaurant_Review-g35805-d2154085-Reviews-Next_Restaurant-Chicago_Illinois.html,100,Next Restaurant
+chicago,NoMI,chicago,https://www.tripadvisor.com/Restaurant_Review-g35805-d429387-Reviews-NoMI_Kitchen-Chicago_Illinois.html,50,NoMI Kitchen
+chicago,North Pond,chicago,https://www.tripadvisor.com/Restaurant_Review-g35805-d455982-Reviews-North_Pond-Chicago_Illinois.html,100,North Pond
+chicago,Omakase Yume,chicago,,74,Omakase
+chicago,Oriole,chicago,https://www.tripadvisor.com/Restaurant_Review-g35805-d10055903-Reviews-Oriole-Chicago_Illinois.html,100,Oriole
+chicago,Parachute,chicago,https://www.tripadvisor.com/Restaurant_Review-g35805-d6731620-Reviews-Parachute_Restaurant-Chicago_Illinois.html,100,Parachute Restaurant
+chicago,RIA,chicago,https://www.tripadvisor.com/Restaurant_Review-g35805-d1968434-Reviews-Ria-Chicago_Illinois.html,100,Ria
+chicago,Roister,chicago,https://www.tripadvisor.com/Restaurant_Review-g35805-d10243605-Reviews-Roister-Chicago_Illinois.html,100,Roister
+chicago,Schwa,chicago,https://www.tripadvisor.com/Restaurant_Review-g35805-d1219227-Reviews-Schwa-Chicago_Illinois.html,100,Schwa
+chicago,Seasons,chicago,https://www.tripadvisor.com/Restaurant_Review-g36395-d10081277-Reviews-Seasons-Morton_Illinois.html,100,Seasons
+chicago,Senza,chicago,https://www.tripadvisor.com/Restaurant_Review-g35805-d3587117-Reviews-Senza-Chicago_Illinois.html,100,Senza
+chicago,Sepia,chicago,https://www.tripadvisor.com/Restaurant_Review-g35805-d805583-Reviews-Sepia-Chicago_Illinois.html,100,Sepia
+chicago,Sixteen,chicago,https://www.tripadvisor.com/Restaurant_Review-g35805-d1014864-Reviews-Sixteen-Chicago_Illinois.html,100,Sixteen
+chicago,Smyth,chicago,https://www.tripadvisor.com/Restaurant_Review-g35805-d10826338-Reviews-Smyth_The_Loyalist-Chicago_Illinois.html,40,Smyth + The Loyalist
+chicago,Spiaggia,chicago,https://www.tripadvisor.com/Restaurant_Review-g35805-d429402-Reviews-Spiaggia_Restaurant-Chicago_Illinois.html,100,Spiaggia Restaurant
+chicago,Takashi,chicago,https://www.tripadvisor.com/Restaurant_Review-g35805-d941106-Reviews-Takashi-Chicago_Illinois.html,100,Takashi
+chicago,Temporis,chicago,https://www.tripadvisor.com/Restaurant_Review-g35805-d12813539-Reviews-Temporis-Chicago_Illinois.html,100,Temporis
+chicago,The Lobby,chicago,https://www.tripadvisor.com/Restaurant_Review-g35805-d451268-Reviews-The_Lobby_at_the_Peninsula_Hotel-Chicago_Illinois.html,71,Lobby
+chicago,Topolobampo,chicago,https://www.tripadvisor.com/Restaurant_Review-g35805-d4245007-Reviews-Topolobampo-Chicago_Illinois.html,100,Topolobampo
+chicago,Tru,chicago,https://www.tripadvisor.com/Restaurant_Review-g35805-d427769-Reviews-Tru-Chicago_Illinois.html,100,Tru
+chicago,Vie,chicago,https://www.tripadvisor.com/Restaurant_Review-g36873-d804875-Reviews-Vie-Western_Springs_Illinois.html,100,Vie
+chicago,Yūgen,chicago,https://www.tripadvisor.com/Restaurant_Review-g35805-d16802758-Reviews-Yugen-Chicago_Illinois.html,80,Yugen
+new york, Le Coucou,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d10471816-Reviews-Le_CouCou_Restaurant-New_York_City_New_York.html,100,Le CouCou Restaurant
+new york, Sushi Noz,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d15074049-Reviews-Sushi_Noz-New_York_City_New_York.html,100,Sushi Noz
+new york,15 East,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d874003-Reviews-15_East_Restaurant-New_York_City_New_York.html,100,15 East Restaurant
+new york,A Voce Columbus,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d1531897-Reviews-A_Voce_Columbus-New_York_City_New_York.html,100,A Voce Columbus
+new york,A Voce Madison,new york,,79,Marche Madison
+new york,Adour,new york,,83,L'Adour
+new york,Agern,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d10249782-Reviews-Agern-New_York_City_New_York.html,100,Agern
+new york,Ai Fiori,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d2005229-Reviews-Ai_Fiori-New_York_City_New_York.html,100,Ai Fiori
+new york,Alain Ducasse at the Essex House,new york,,51,Essex House
+new york,Aldea,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d1444703-Reviews-Aldea-New_York_City_New_York.html,100,aldea
+new york,Allen & Delancey,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d811564-Reviews-Allen_Delancey-New_York_City_New_York.html,100,Allen & Delancey
+new york,Alto,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d938994-Reviews-Alto-New_York_City_New_York.html,100,Alto
+new york,Andanada,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d4007994-Reviews-Andanada-New_York_City_New_York.html,100,Andanada
+new york,Annisa,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d423290-Reviews-Annisa-New_York_City_New_York.html,100,Annisa
+new york,Anthos,new york,https://www.tripadvisor.com/Restaurant_Review-g4585995-d14183447-Reviews-Anthos-Theologos_Phthiotis_Region_Central_Greece.html,100,Anthos
+new york,Aquavit,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d425570-Reviews-Aquavit-New_York_City_New_York.html,100,Aquavit
+new york,Aska,new york,https://www.tripadvisor.com/Restaurant_Review-g60827-d11625488-Reviews-Aska-Brooklyn_New_York.html,100,Aska
+new york,Atera,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d3599839-Reviews-Atera-New_York_City_New_York.html,100,Atera
+new york,Atomix,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d15676762-Reviews-Atomix-New_York_City_New_York.html,100,Atomix
+new york,Aureole,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d423807-Reviews-Aureole-New_York_City_New_York.html,100,Aureole
+new york,BLT Fish,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d564908-Reviews-BLT_Fish-New_York_City_New_York.html,100,BLT Fish
+new york,Babbo,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d423266-Reviews-Babbo_Ristorante_e_Enoteca-New_York_City_New_York.html,36,Bocuse Restaurant
+new york,Bar Uchū,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d12434865-Reviews-Uchu-New_York_City_New_York.html,56,Bar Boulud
+new york,Benno,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d17454091-Reviews-Benno-New_York_City_New_York.html,100,Benno
+new york,Betony,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d4225890-Reviews-Betony-New_York_City_New_York.html,100,Betony
+new york,Blanca,new york,https://www.tripadvisor.com/Restaurant_Review-g60827-d6413062-Reviews-Blanca-Brooklyn_New_York.html,100,Blanca
+new york,Blue Hill,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d457823-Reviews-Blue_Hill-New_York_City_New_York.html,100,Blue Hill
+new york,Blue Hill at Stone Barns,new york,https://www.tripadvisor.com/Restaurant_Review-g48416-d486229-Reviews-Blue_Hill_at_Stone_Barns-Pocantico_Hills_New_York.html,100,Blue Hill at Stone Barns
+new york,Bouley,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d423304-Reviews-Bouley_Restaurant-New_York_City_New_York.html,100,Bouley Restaurant
+new york,Bouley at Home,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d13126963-Reviews-Bouley_at_Home-New_York_City_New_York.html,100,Bouley at Home
+new york,Brushstroke,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d2256318-Reviews-Brushstroke-New_York_City_New_York.html,100,Brushstroke
+new york,Bâtard,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d6663091-Reviews-Batard-New_York_City_New_York.html,83,Batard
+new york,Café Boulud,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d423818-Reviews-Cafe_Boulud-New_York_City_New_York.html,91,Cafe Boulud
+new york,Café China,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d2360090-Reviews-Cafe_China-New_York_City_New_York.html,90,Cafe China
+new york,Café Gray,new york,,60,Dorian Gray
+new york,Cagen,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d4837675-Reviews-Cagen-New_York_City_New_York.html,100,Cagen
+new york,Carbone,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d3958626-Reviews-Carbone-New_York_City_New_York.html,100,Carbone
+new york,Casa Enrique,new york,https://www.tripadvisor.com/Restaurant_Review-g48080-d3923887-Reviews-Casa_Enrique-Long_Island_City_Queens_New_York.html,100,Casa Enrique
+new york,Casa Mono,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d479746-Reviews-Casa_Mono-New_York_City_New_York.html,100,Casa Mono
+new york,Caviar Russe,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d425560-Reviews-Caviar_Russe-New_York_City_New_York.html,100,Caviar Russe
+new york,Chef's Table at Brooklyn Fare,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d12281642-Reviews-Chefs_Table_at_Brooklyn_Fare-New_York_City_New_York.html,98,Chefs Table at Brooklyn Fare
+new york,Claro,new york,https://www.tripadvisor.com/Restaurant_Review-g60827-d13174502-Reviews-Claro-Brooklyn_New_York.html,100,Claro
+new york,Contra,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d6528991-Reviews-Contra-New_York_City_New_York.html,100,Contra
+new york,Convivio,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d425672-Reviews-Convivio-New_York_City_New_York.html,100,Convivio
+new york,Corton,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d1215782-Reviews-Corton-New_York_City_New_York.html,100,Corton
+new york,Cote,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d12672159-Reviews-Cote_Korean_Steakhouse-New_York_City_New_York.html,44,Atera
+new york,Country,new york,,48,Hadlyme Country Market
+new york,Craft,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d1750605-Reviews-Craft-New_York_City_New_York.html,100,Craft
+new york,Crown Shy,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d17413865-Reviews-Crown_Shy-New_York_City_New_York.html,100,Crown Shy
+new york,Cru,new york,https://www.tripadvisor.com/Restaurant_Review-g33979-d4833402-Reviews-Cru-Westport_Connecticut.html,100,Cru
+new york,Daniel,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d457808-Reviews-Daniel-New_York_City_New_York.html,100,Daniel
+new york,Danji,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d2035361-Reviews-Danji-New_York_City_New_York.html,100,Danji
+new york,Danny Brown Wine Bar & Kitchen,new york,https://www.tripadvisor.com/Restaurant_Review-g47732-d676597-Reviews-Danny_Brown_Wine_Bar_Kitchen-Forest_Hills_Queens_New_York.html,100,Danny Brown Wine Bar & Kitchen
+new york,Danube,new york,,71,Blue Danube Restaurant
+new york,Del Posto,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d598053-Reviews-Del_Posto-New_York_City_New_York.html,100,Del Posto
+new york,Delaware & Hudson,new york,https://www.tripadvisor.com/Restaurant_Review-g60827-d6974062-Reviews-Delaware_and_Hudson-Brooklyn_New_York.html,89,Delaware and Hudson
+new york,Devi,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d528688-Reviews-Devi-New_York_City_New_York.html,100,Devi
+new york,Dovetail,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d967104-Reviews-Dovetail-New_York_City_New_York.html,100,Dovetail
+new york,Dressler,new york,https://www.tripadvisor.com/Restaurant_Review-g60827-d803918-Reviews-Dressler-Brooklyn_New_York.html,100,Dressler
+new york,Eighty-One,new york,,60,Benito One
+new york,Eleven Madison Park,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d479020-Reviews-Eleven_Madison_Park-New_York_City_New_York.html,100,Eleven Madison Park
+new york,Estela,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d6413212-Reviews-Estela-New_York_City_New_York.html,100,Estela
+new york,Etats-Unis,new york,,47,Bar Uni
+new york,Faro,new york,https://www.tripadvisor.com/Restaurant_Review-g60827-d8118442-Reviews-Faro-Brooklyn_New_York.html,100,Faro
+new york,Fiamma Osteria,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d423319-Reviews-Fiamma_Osteria-New_York_City_New_York.html,100,Fiamma Osteria
+new york,Fleur de Sel,new york,,78,Flor de Sol
+new york,Gabriel Kreuther,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d8483826-Reviews-Gabriel_Kreuther-New_York_City_New_York.html,100,Gabriel Kreuther
+new york,Gilt,new york,,33,Kingsley
+new york,Gordon Ramsay at The London,new york,,70,Gordon Ramsay Steak
+new york,Gotham Bar and Grill,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d423308-Reviews-Gotham_Bar_Grill-New_York_City_New_York.html,89,Gotham Bar & Grill
+new york,Gramercy Tavern,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d424094-Reviews-Gramercy_Tavern-New_York_City_New_York.html,100,Gramercy Tavern
+new york,Gunter Seeger,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d10107390-Reviews-Gunter_Seeger_NY-New_York_City_New_York.html,90,Gunter Seeger NY
+new york,Hakkasan,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d6899369-Reviews-Hakkasan_New_York-New_York_City_New_York.html,64,Hakkasan New York
+new york,Heartbreak,new york,https://www.tripadvisor.com/Restaurant_Review-g670671-d4086566-Reviews-Heartbreak-Aguadulce_Roquetas_de_Mar_Province_of_Almeria_Andalucia.html,100,Heartbreak
+new york,Hirohisa,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d4763579-Reviews-Hirohisa-New_York_City_New_York.html,100,Hirohisa
+new york,Ichimura at Brushstroke,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d2256318-Reviews-Brushstroke-New_York_City_New_York.html,65,Brushstroke
+new york,Ichimura at Uchū,new york,,67,Ichimura
+new york,Insieme,new york,https://www.tripadvisor.com/Restaurant_Review-g504051-d8479199-Reviews-Insieme_Restaurant-Seahouses_Northumberland_England.html,100,Insieme Restaurant
+new york,Jean-Georges,new york,https://www.tripadvisor.com/Restaurant_Review-g60795-d18341560-Reviews-Jean_Georges-Philadelphia_Pennsylvania.html,100,Jean-Georges
+new york,Jeju Noodle Bar,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d12876789-Reviews-Jeju_Noodle_Bar-New_York_City_New_York.html,100,Jeju Noodle Bar
+new york,Jewel Bako,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d2253557-Reviews-Jewel_Bako-New_York_City_New_York.html,100,Jewel Bako
+new york,JoJo,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d482185-Reviews-JoJo-New_York_City_New_York.html,100,JoJo
+new york,Jungsik,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d2345886-Reviews-Jungsik-New_York_City_New_York.html,100,Jungsik
+new york,Juni,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d4784807-Reviews-Juni-New_York_City_New_York.html,100,Juni
+new york,Junoon,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d1998942-Reviews-Junoon_Restaurant-New_York_City_New_York.html,100,Junoon Restaurant
+new york,Kajitsu,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d1420211-Reviews-Kajitsu-New_York_City_New_York.html,100,Kajitsu
+new york,Kanoyama,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d789243-Reviews-Kanoyama-New_York_City_New_York.html,100,Kanoyama
+new york,Kosaka,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d10155892-Reviews-Kosaka-New_York_City_New_York.html,100,Kosaka
+new york,Kurumazushi,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d424528-Reviews-Kuruma_Zushi-New_York_City_New_York.html,21,Sasabune
+new york,Kyo Ya,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d1015518-Reviews-Kyo_Ya-New_York_City_New_York.html,100,Kyo Ya
+new york,L'Appart,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d10779799-Reviews-L_Appart-New_York_City_New_York.html,100,L'Appart
+new york,L'Atelier de Joël Robuchon,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d13005816-Reviews-L_Atelier_de_Joel_Robuchon-New_York_City_New_York.html,96,L'Atelier de Joel Robuchon
+new york,La Goulue,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d14783434-Reviews-La_Goulue-New_York_City_New_York.html,100,La Goulue
+new york,La Sirena,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d9847336-Reviews-La_Sirena-New_York_City_New_York.html,100,La Sirena
+new york,La Vara,new york,https://www.tripadvisor.com/Restaurant_Review-g60827-d2702817-Reviews-La_Vara-Brooklyn_New_York.html,100,La Vara
+new york,Lan Sheng,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d4416400-Reviews-Lan_Sheng_Restaurant-New_York_City_New_York.html,100,Lan Sheng Restaurant
+new york,Laut,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d1102968-Reviews-Laut-New_York_City_New_York.html,100,Laut
+new york,Le Bernardin,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d424434-Reviews-Le_Bernardin-New_York_City_New_York.html,100,Le Bernardin
+new york,Le Grill de Joël Robuchon,new york,,75,L'Atelier de Joel Robuchon
+new york,Le Jardinier,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d17548013-Reviews-Le_Jardinier-New_York_City_New_York.html,100,Le Jardinier
+new york,Le Restaurant,new york,,44,Rebelle
+new york,Lever House,new york,,70,Porter House
+new york,Lincoln,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d2707130-Reviews-Lincoln_Ristorante-New_York_City_New_York.html,74,Lincoln Cafe
+new york,Lo Scalco,new york,,60,Los Abuelos
+new york,Luksus at Torst,new york,https://www.tripadvisor.com/Restaurant_Review-g60827-d7193509-Reviews-Luksus-Brooklyn_New_York.html,57,Luksus
+new york,M. Wells Steakhouse,new york,https://www.tripadvisor.com/Restaurant_Review-g48080-d5826011-Reviews-M_Wells_Steakhouse-Long_Island_City_Queens_New_York.html,97,M Wells Steakhouse
+new york,Marc Forgione,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d1765589-Reviews-Marc_Forgione-New_York_City_New_York.html,100,Marc Forgione
+new york,March,new york,,60,Marea
+new york,Marea,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d1444705-Reviews-Marea-New_York_City_New_York.html,100,Marea
+new york,Masa,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d425593-Reviews-Masa-New_York_City_New_York.html,100,Masa
+new york,Meadowsweet,new york,https://www.tripadvisor.com/Restaurant_Review-g60827-d6787101-Reviews-Meadowsweet-Brooklyn_New_York.html,100,Meadowsweet
+new york,Minetta Tavern,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d423299-Reviews-Minetta_Tavern-New_York_City_New_York.html,100,Minetta Tavern
+new york,Momofuku Ko,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d811567-Reviews-Momofuku_Ko-New_York_City_New_York.html,100,Momofuku Ko
+new york,Nix,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d10056143-Reviews-Nix-New_York_City_New_York.html,100,Nix
+new york,Nobu,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d451090-Reviews-Nobu-New_York_City_New_York.html,100,Nobu
+new york,Noda,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d14901665-Reviews-Noda-New_York_City_New_York.html,100,Noda
+new york,Oceana,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d425558-Reviews-Oceana_Restaurant-New_York_City_New_York.html,100,Oceana Restaurant
+new york,Odo,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d17418058-Reviews-Odo-New_York_City_New_York.html,100,Odo
+new york,Okuda,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d13988681-Reviews-Okuda-New_York_City_New_York.html,100,Okuda
+new york,Oxalis,new york,https://www.tripadvisor.com/Restaurant_Review-g60827-d15659781-Reviews-Oxalis_restaurant_Brooklyn-Brooklyn_New_York.html,55,oxalis restaurant Brooklyn
+new york,Oxomoco,new york,https://www.tripadvisor.com/Restaurant_Review-g60827-d14199287-Reviews-Oxomoco-Brooklyn_New_York.html,100,Oxomoco
+new york,Per Se,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d425628-Reviews-Per_Se-New_York_City_New_York.html,100,Per Se
+new york,Perry Street,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d590536-Reviews-Perry_St-New_York_City_New_York.html,86,One Perry Street Restaurant
+new york,Peter Luger Steak House,new york,https://www.tripadvisor.com/Restaurant_Review-g60827-d457806-Reviews-Peter_Luger_Steak_House-Brooklyn_New_York.html,100,Peter Luger Steak House
+new york,Picholine,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d425561-Reviews-Picholine-New_York_City_New_York.html,100,Picholine
+new york,Piora,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d4843000-Reviews-Piora-New_York_City_New_York.html,100,Piora
+new york,Pok Pok NY,new york,https://www.tripadvisor.com/Restaurant_Review-g60827-d3396685-Reviews-Pok_Pok_NY-Brooklyn_New_York.html,63,Toriko NY
+new york,Public,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d424259-Reviews-Public-New_York_City_New_York.html,100,Public
+new york,Rebelle,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d8261869-Reviews-Rebelle-New_York_City_New_York.html,100,Rebelle
+new york,Rhong-Tiam,new york,https://www.tripadvisor.com/Restaurant_Review-g46741-d2702573-Reviews-Rhong_Tiam-Plainsboro_New_Jersey.html,90,Rhong Tiam
+new york,Rosanjin,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d933531-Reviews-Rosanjin-New_York_City_New_York.html,100,Rosanjin
+new york,Rouge Tomate,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d1370130-Reviews-Rouge_Tomate-New_York_City_New_York.html,100,Rouge Tomate
+new york,SHO Shaun Hergatt,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d1454294-Reviews-SHO_Shaun_Hergatt-New_York_City_New_York.html,100,SHO Shaun Hergatt
+new york,Satsuki,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d12267006-Reviews-Satsuki-New_York_City_New_York.html,100,Satsuki
+new york,Saul,new york,https://www.tripadvisor.com/Restaurant_Review-g60827-d4813511-Reviews-Saul_at_the_Brooklyn_Museum-Brooklyn_New_York.html,26,Saul at the Brooklyn Museum
+new york,Scalini Fedeli,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d424246-Reviews-Scalini_Fedeli-New_York_City_New_York.html,100,Scalini Fedeli
+new york,Semilla,new york,https://www.tripadvisor.com/Restaurant_Review-g60827-d7281977-Reviews-Semilla-Brooklyn_New_York.html,100,Semilla
+new york,Seäsonal,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d1390757-Reviews-Seasonal_Restaurant_and_Weinbar-New_York_City_New_York.html,45,Dig Inn Seasonal Market
+new york,Shalezeh,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d1985892-Reviews-Shalezeh-New_York_City_New_York.html,100,Shalezeh
+new york,Somtum Der,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d4369763-Reviews-Somtum_Der-New_York_City_New_York.html,100,Somtum Der
+new york,Soto,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d892248-Reviews-Soto-New_York_City_New_York.html,100,Soto
+new york,Sushi Amane,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d12870867-Reviews-Sushi_AMANE-New_York_City_New_York.html,100,sushi AMANE
+new york,Sushi Azabu,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d1437915-Reviews-Sushi_Azabu-New_York_City_New_York.html,100,Sushi Azabu
+new york,Sushi Ginza Onodera,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d10643661-Reviews-Sushi_Ginza_Onodera-New_York_City_New_York.html,100,Sushi Ginza Onodera
+new york,Sushi Inoue,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d8607217-Reviews-Sushi_Inoue-New_York_City_New_York.html,100,Sushi Inoue
+new york,Sushi Nakazawa,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d5571336-Reviews-Sushi_Nakazawa-New_York_City_New_York.html,100,Sushi Nakazawa
+new york,Sushi Yasuda,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d425325-Reviews-Sushi_Yasuda-New_York_City_New_York.html,100,Sushi Yasuda
+new york,Sushi Zo,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d10279806-Reviews-Sushi_Zo-New_York_City_New_York.html,100,Sushi Zo
+new york,Sushi of Gari,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d423794-Reviews-Sushi_of_Gari-New_York_City_New_York.html,100,Sushi of Gari
+new york,Take Root,new york,https://www.tripadvisor.com/Restaurant_Review-g60827-d4634865-Reviews-Take_Root-Brooklyn_New_York.html,100,Take Root
+new york,Tamarind Tribeca,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d1985904-Reviews-Tamarind_Tribeca-New_York_City_New_York.html,94,Tamarind - Tribeca
+new york,Telepan,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d638940-Reviews-Telepan-New_York_City_New_York.html,100,Telepan
+new york,Tempura Matsui,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d8493131-Reviews-Tempura_Matsui-New_York_City_New_York.html,100,Tempura Matsui
+new york,Tetsu Basement,new york,,67,The Basement Lounge
+new york,The Breslin,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d1504911-Reviews-The_Breslin-New_York_City_New_York.html,100,The Breslin
+new york,The Clocktower,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d8130715-Reviews-The_Clocktower-New_York_City_New_York.html,100,The Clocktower
+new york,The Finch,new york,https://www.tripadvisor.com/Restaurant_Review-g60827-d7312642-Reviews-The_Finch-Brooklyn_New_York.html,100,The Finch
+new york,The Four Horsemen,new york,https://www.tripadvisor.com/Restaurant_Review-g60827-d8589991-Reviews-The_Four_Horsemen-Brooklyn_New_York.html,100,The Four Horsemen
+new york,The Modern,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d549201-Reviews-The_Modern-New_York_City_New_York.html,100,The Modern
+new york,The Musket Room,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d4397951-Reviews-The_Musket_Room-New_York_City_New_York.html,100,The Musket Room
+new york,The NoMad,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d3193810-Reviews-The_NoMad_Restaurant-New_York_City_New_York.html,100,The NoMad Restaurant
+new york,The River Café,new york,https://www.tripadvisor.com/Restaurant_Review-g60827-d482173-Reviews-The_River_Cafe-Brooklyn_New_York.html,93,The River Cafe
+new york,The Spotted Pig,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d599670-Reviews-The_Spotted_Pig-New_York_City_New_York.html,100,The Spotted Pig
+new york,Tori Shin,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d946874-Reviews-Tori_Shin-New_York_City_New_York.html,100,Tori Shin
+new york,Torrisi Italian Specialities,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d1956000-Reviews-Torrisi_Italian_Specialties-New_York_City_New_York.html,98,Torrisi Italian Specialties
+new york,Tulsi,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d2005354-Reviews-Tulsi-New_York_City_New_York.html,100,Tulsi
+new york,Tuome,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d7247217-Reviews-Tuome-New_York_City_New_York.html,100,Tuome
+new york,Ukiyo,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d14802627-Reviews-Restaurant_Ukiyo-New_York_City_New_York.html,100,Restaurant Ukiyo
+new york,Uncle Boons,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d6418795-Reviews-Uncle_Boon_s-New_York_City_New_York.html,96,Uncle Boon's
+new york,Ushiwakamaru,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d10459260-Reviews-Ushiwakamaru-New_York_City_New_York.html,100,Ushiwakamaru
+new york,Veritas,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d424091-Reviews-Veritas-New_York_City_New_York.html,100,Veritas
+new york,Vong,new york,,25,Jean Georges
+new york,Wallsé,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d423317-Reviews-Wallse-New_York_City_New_York.html,83,Wallse
+new york,ZZ's Clam Bar,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d6592927-Reviews-ZZ_s_Clam_Bar-New_York_City_New_York.html,100,ZZ's Clam Bar
+new york,Zabb Elee,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d3200887-Reviews-Zabb_Elee-New_York_City_New_York.html,100,Zabb Elee
+new york,wd~50,new york,https://www.tripadvisor.com/Restaurant_Review-g60763-d425828-Reviews-Wd_50-New_York_City_New_York.html,100,wd~50
+san francisco,Acquerello,california,https://www.tripadvisor.com/Restaurant_Review-g60713-d370438-Reviews-Acquerello-San_Francisco_California.html,100,Acquerello
+san francisco,Adega,california,https://www.tripadvisor.com/Restaurant_Review-g33020-d9591148-Reviews-ADEGA-San_Jose_California.html,100,ADEGA
+san francisco,Al's Place,california,https://www.tripadvisor.com/Restaurant_Review-g33236-d12400977-Reviews-Al_s_Place-Walnut_Grove_California.html,100,Al's Place
+san francisco,Alexander’s Steakhouse,california,https://www.tripadvisor.com/Restaurant_Review-g32273-d639324-Reviews-Alexander_s_Steakhouse-Cupertino_California.html,95,Alexander's Steakhouse
+san francisco,All Spice,california,https://www.tripadvisor.com/Restaurant_Review-g33031-d1999054-Reviews-All_Spice-San_Mateo_California.html,100,All Spice
+san francisco,Ame,california,https://www.tripadvisor.com/Restaurant_Review-g60713-d595990-Reviews-Ame-San_Francisco_California.html,100,Ame
+san francisco,Angler,california,https://www.tripadvisor.com/Restaurant_Review-g60713-d15141065-Reviews-Angler-San_Francisco_California.html,100,Angler
+san francisco,Applewood,california,https://www.tripadvisor.com/Restaurant_Review-g32465-d491915-Reviews-Applewood_Inn_Restaurant-Guerneville_Sonoma_County_California.html,100,Applewood Restaurant
+san francisco,Aqua,california,https://www.tripadvisor.com/Restaurant_Review-g32279-d953242-Reviews-Aqua-Dana_Point_California.html,100,Aqua
+san francisco,Aster,california,https://www.tripadvisor.com/Restaurant_Review-g60713-d7897910-Reviews-Aster-San_Francisco_California.html,100,Aster
+san francisco,Atelier Crenn,california,https://www.tripadvisor.com/Restaurant_Review-g60713-d2001299-Reviews-Atelier_Crenn-San_Francisco_California.html,100,Atelier Crenn
+san francisco,Auberge du Soleil,california,https://www.tripadvisor.com/Restaurant_Review-g32997-d346522-Reviews-Auberge_du_Soleil_Restaurant-Rutherford_Napa_Valley_California.html,100,Auberge du Soleil Restaurant
+san francisco,Aubergine,california,https://www.tripadvisor.com/Restaurant_Review-g32172-d1367785-Reviews-Aubergine_at_L_Auberge_Carmel-Carmel_Monterey_County_California.html,59,Tamarine Restaurant
+san francisco,Aziza,california,https://www.tripadvisor.com/Restaurant_Review-g60713-d367039-Reviews-Aziza-San_Francisco_California.html,100,Aziza
+san francisco,Bar Crenn,california,https://www.tripadvisor.com/Restaurant_Review-g60713-d14981516-Reviews-Bar_Crenn-San_Francisco_California.html,100,Bar Crenn
+san francisco,Baumé,california,https://www.tripadvisor.com/Restaurant_Review-g32849-d1910920-Reviews-Baume-Palo_Alto_California.html,80,Baume
+san francisco,Benu,california,https://www.tripadvisor.com/Restaurant_Review-g60713-d1898383-Reviews-Benu-San_Francisco_California.html,100,Benu
+san francisco,Birdsong,california,https://www.tripadvisor.com/Restaurant_Review-g60713-d14101300-Reviews-Birdsong-San_Francisco_California.html,100,Birdsong
+san francisco,Bistro Jeanty,california,https://www.tripadvisor.com/Restaurant_Review-g33300-d346371-Reviews-Bistro_Jeanty-Yountville_Napa_Valley_California.html,100,Bistro Jeanty
+san francisco,Bouchon,california,https://www.tripadvisor.com/Restaurant_Review-g33045-d497813-Reviews-Bouchon-Santa_Barbara_California.html,100,Bouchon
+san francisco,Boulevard,california,https://www.tripadvisor.com/Restaurant_Review-g60713-d353909-Reviews-Boulevard-San_Francisco_California.html,100,Boulevard
+san francisco,Bushi-Tei,california,https://www.tripadvisor.com/Restaurant_Review-g60713-d610938-Reviews-Bushi_Tei-San_Francisco_California.html,100,Bushi-Tei
+san francisco,Californios,california,https://www.tripadvisor.com/Restaurant_Review-g60713-d7349813-Reviews-Californios-San_Francisco_California.html,100,Californios
+san francisco,Campton Place,california,https://www.tripadvisor.com/Restaurant_Review-g60713-d446708-Reviews-Taj_Campton_Place_Restaurant-San_Francisco_California.html,87,Taj Campton Place Restaurant
+san francisco,Chez Panisse,california,https://www.tripadvisor.com/Restaurant_Review-g32066-d582405-Reviews-Chez_Panisse-Berkeley_California.html,100,Chez Panisse
+san francisco,Chez TJ,california,https://www.tripadvisor.com/Restaurant_Review-g32761-d342108-Reviews-Chez_TJ-Mountain_View_California.html,100,Chez TJ
+san francisco,Coi,california,https://www.tripadvisor.com/Restaurant_Review-g60713-d618689-Reviews-Coi-San_Francisco_California.html,100,Coi
+san francisco,Commis,california,https://www.tripadvisor.com/Restaurant_Review-g32810-d1534638-Reviews-Commis-Oakland_California.html,100,Commis
+san francisco,Commonwealth,california,https://www.tripadvisor.com/Restaurant_Review-g32123-d6012820-Reviews-Commonwealth-Burbank_California.html,100,Commonwealth
+san francisco,Cortez,california,https://www.tripadvisor.com/Restaurant_Review-g32655-d5563066-Reviews-Cortez-Los_Angeles_California.html,100,Cortez
+san francisco,Cyrus,california,https://www.tripadvisor.com/Restaurant_Review-g32482-d563749-Reviews-Cyrus_Restaurant-Healdsburg_Sonoma_County_California.html,100,Cyrus Restaurant
+san francisco,Dio Deka,california,https://www.tripadvisor.com/Restaurant_Review-g32657-d629238-Reviews-Dio_Deka-Los_Gatos_California.html,100,Dio Deka
+san francisco,Dry Creek Kitchen,california,https://www.tripadvisor.com/Restaurant_Review-g32482-d346597-Reviews-Dry_Creek_Kitchen-Healdsburg_Sonoma_County_California.html,100,Dry Creek Kitchen
+san francisco,El Paseo,california,https://www.tripadvisor.com/Restaurant_Review-g33045-d492418-Reviews-El_Paseo_Restaurant-Santa_Barbara_California.html,100,El Paseo Restaurant
+san francisco,Etoile,california,https://www.tripadvisor.com/Restaurant_Review-g33300-d502819-Reviews-Etoile-Yountville_Napa_Valley_California.html,100,Etoile
+san francisco,Farmhouse Inn & Restaurant,california,https://www.tripadvisor.com/Restaurant_Review-g32397-d494265-Reviews-Farmhouse_Inn_Restaurant-Forestville_Sonoma_County_California.html,93,Farmhouse Inn Restaurant
+san francisco,Fifth Floor,california,https://www.tripadvisor.com/Restaurant_Review-g33023-d880999-Reviews-Fifth_Wheel-San_Leandro_California.html,64,Fifth Wheel
+san francisco,Fleur de Lys,california,https://www.tripadvisor.com/Restaurant_Review-g60713-d353938-Reviews-Fleur_de_Lys-San_Francisco_California.html,100,Fleur de Lys
+san francisco,Frances,california,https://www.tripadvisor.com/Restaurant_Review-g60713-d1733647-Reviews-Frances-San_Francisco_California.html,100,Frances
+san francisco,Gary Danko,california,https://www.tripadvisor.com/Restaurant_Review-g60713-d370412-Reviews-Restaurant_Gary_Danko-San_Francisco_California.html,100,Restaurant Gary Danko
+san francisco,Harbor House,california,https://www.tripadvisor.com/Restaurant_Review-g60750-d520222-Reviews-Harbor_House_Restaurant-San_Diego_California.html,100,Harbor House Restaurant
+san francisco,Hashiri,california,https://www.tripadvisor.com/Restaurant_Review-g60713-d10311001-Reviews-Hashiri-San_Francisco_California.html,100,Hashiri
+san francisco,In Situ,california,https://www.tripadvisor.com/Restaurant_Review-g60713-d10433341-Reviews-In_Situ-San_Francisco_California.html,100,In Situ
+san francisco,Jū-Ni,california,https://www.tripadvisor.com/Restaurant_Review-g60713-d10031091-Reviews-Ju_Ni-San_Francisco_California.html,80,Ju-Ni
+san francisco,K&L Bistro,california,https://www.tripadvisor.com/Restaurant_Review-g33069-d468358-Reviews-K_L_Bistro-Sebastopol_Sonoma_County_California.html,91,K & L Bistro
+san francisco,Keiko à Nob Hill,california,https://www.tripadvisor.com/Restaurant_Review-g60713-d2402786-Reviews-Keiko_a_Nob_Hill-San_Francisco_California.html,94,Keiko a Nob Hill
+san francisco,Kenzo,california,https://www.tripadvisor.com/Restaurant_Review-g32766-d11850777-Reviews-Kenzo-Napa_Napa_Valley_California.html,100,Kenzo
+san francisco,Kin Khao,california,https://www.tripadvisor.com/Restaurant_Review-g60713-d6468862-Reviews-Kin_Khao-San_Francisco_California.html,100,Kin Khao
+san francisco,Kinjo,california,https://www.tripadvisor.com/Restaurant_Review-g60713-d12224108-Reviews-Kinjo-San_Francisco_California.html,100,Kinjo
+san francisco,Kusakabe,california,https://www.tripadvisor.com/Restaurant_Review-g60713-d6665437-Reviews-Kusakabe-San_Francisco_California.html,100,Kusakabe
+san francisco,La Costanera,california,https://www.tripadvisor.com/Restaurant_Review-g32731-d1554232-Reviews-La_Costanera-Montara_California.html,100,La Costanera
+san francisco,La Folie,california,https://www.tripadvisor.com/Restaurant_Review-g60713-d370419-Reviews-La_Folie-San_Francisco_California.html,100,La Folie
+san francisco,La Toque,california,https://www.tripadvisor.com/Restaurant_Review-g32766-d346529-Reviews-La_Toque-Napa_Napa_Valley_California.html,100,La Toque
+san francisco,Lazy Bear,california,https://www.tripadvisor.com/Restaurant_Review-g60713-d4814980-Reviews-Lazy_Bear-San_Francisco_California.html,100,Lazy Bear
+san francisco,Lord Stanley,california,https://www.tripadvisor.com/Restaurant_Review-g60713-d8135368-Reviews-Lord_Stanley-San_Francisco_California.html,100,Lord Stanley
+san francisco,Luce,california,https://www.tripadvisor.com/Restaurant_Review-g60713-d1203639-Reviews-Luce-San_Francisco_California.html,100,Luce
+san francisco,Madcap,california,https://www.tripadvisor.com/Restaurant_Review-g33007-d12815542-Reviews-Madcap_Restaurant-San_Anselmo_Marin_County_California.html,100,Madcap Restaurant
+san francisco,Madera,california,https://www.tripadvisor.com/Restaurant_Review-g32704-d1404758-Reviews-Madera-Menlo_Park_California.html,100,Madera
+san francisco,Madrona Manor,california,https://www.tripadvisor.com/Restaurant_Review-g32482-d376206-Reviews-Madrona_Manor_Restaurant-Healdsburg_Sonoma_County_California.html,100,Madrona Manor Restaurant
+san francisco,Manresa,california,https://www.tripadvisor.com/Restaurant_Review-g32657-d347417-Reviews-Manresa-Los_Gatos_California.html,100,Manresa
+san francisco,Martini House,california,,64,Acacia House
+san francisco,Maruya,california,https://www.tripadvisor.com/Restaurant_Review-g60713-d6413372-Reviews-Maruya-San_Francisco_California.html,100,Maruya
+san francisco,Masa's,california,https://www.tripadvisor.com/Restaurant_Review-g60713-d353903-Reviews-Masa_s_Restaurant-San_Francisco_California.html,100,Masa's Restaurant
+san francisco,Maum,california,https://www.tripadvisor.com/Restaurant_Review-g32849-d16844201-Reviews-Maum-Palo_Alto_California.html,100,Maum
+san francisco,Michael Mina,california,https://www.tripadvisor.com/Restaurant_Review-g60713-d502258-Reviews-Michael_Mina-San_Francisco_California.html,100,Michael Mina
+san francisco,Mirepoix,california,https://www.tripadvisor.com/Restaurant_Review-g32588-d5565969-Reviews-Mirepoix-Laguna_Beach_California.html,100,Mirepoix
+san francisco,Mister Jiu’s,california,https://www.tripadvisor.com/Restaurant_Review-g60713-d10166198-Reviews-Mister_Jiu_s-San_Francisco_California.html,100,Mister Jiu’s
+san francisco,Mosu,california,https://www.tripadvisor.com/Restaurant_Review-g60713-d9877754-Reviews-Mosu-San_Francisco_California.html,100,Mosu
+san francisco,Mourad,california,https://www.tripadvisor.com/Restaurant_Review-g60713-d7697112-Reviews-Mourad-San_Francisco_California.html,100,Mourad
+san francisco,Murray Circle,california,https://www.tripadvisor.com/Restaurant_Review-g33062-d1119095-Reviews-Murray_Circle-Sausalito_Marin_County_California.html,100,Murray Circle
+san francisco,Nico,california,https://www.tripadvisor.com/Restaurant_Review-g60713-d6280859-Reviews-Nico-San_Francisco_California.html,100,Nico
+san francisco,Octavia,california,https://www.tripadvisor.com/Restaurant_Review-g60713-d7950201-Reviews-Octavia-San_Francisco_California.html,100,Octavia
+san francisco,Omakase,california,https://www.tripadvisor.com/Restaurant_Review-g60713-d8352372-Reviews-Omakase-San_Francisco_California.html,100,Omakase
+san francisco,One Market,california,https://www.tripadvisor.com/Restaurant_Review-g60713-d354050-Reviews-One_Market_Restaurant-San_Francisco_California.html,100,One Market Restaurant
+san francisco,Plumed Horse,california,https://www.tripadvisor.com/Restaurant_Review-g33059-d350013-Reviews-The_Plumed_Horse-Saratoga_California.html,86,The Plumed Horse
+san francisco,Protegé,california,https://www.tripadvisor.com/Restaurant_Review-g32849-d13951034-Reviews-Protege-Palo_Alto_California.html,86,Protege
+san francisco,Quince,california,https://www.tripadvisor.com/Restaurant_Review-g60713-d349411-Reviews-Quince-San_Francisco_California.html,100,Quince
+san francisco,Range,california,,50,Manresa
+san francisco,Rasa,california,https://www.tripadvisor.com/Restaurant_Review-g32124-d7277633-Reviews-Rasa_Contemporary_Indian-Burlingame_California.html,62,Sari Rasa
+san francisco,Redd,california,https://www.tripadvisor.com/Restaurant_Review-g33300-d597990-Reviews-Redd-Yountville_Napa_Valley_California.html,100,Redd
+san francisco,Rich Table,california,https://www.tripadvisor.com/Restaurant_Review-g60713-d3385749-Reviews-Rich_Table-San_Francisco_California.html,100,Rich Table
+san francisco,Rubicon,california,,74,Rubicon Deli
+san francisco,SPQR,california,https://www.tripadvisor.com/Restaurant_Review-g60713-d916240-Reviews-SPQR-San_Francisco_California.html,100,SPQR
+san francisco,Saison,california,https://www.tripadvisor.com/Restaurant_Review-g60713-d1988168-Reviews-Saison-San_Francisco_California.html,100,Saison
+san francisco,Sante,california,https://www.tripadvisor.com/Restaurant_Review-g33107-d630270-Reviews-Sante-Sonoma_Sonoma_County_California.html,100,Sante
+san francisco,SingleThread,california,https://www.tripadvisor.com/Restaurant_Review-g32482-d12111188-Reviews-SingleThread_Farm_Restaurant-Healdsburg_Sonoma_County_California.html,83,SingleThread Farm Restaurant
+san francisco,Solbar,california,https://www.tripadvisor.com/Restaurant_Review-g32143-d1371042-Reviews-Solbar_Solage_Calistoga-Calistoga_Napa_Valley_California.html,39,Solbar - Solage Calistoga
+san francisco,Sons & Daughters,california,https://www.tripadvisor.com/Restaurant_Review-g60713-d1988172-Reviews-Sons_Daughters-San_Francisco_California.html,100,Sons & Daughters
+san francisco,Sorrel,california,https://www.tripadvisor.com/Restaurant_Review-g60713-d10495156-Reviews-Sorrel-San_Francisco_California.html,100,Sorrel
+san francisco,Spruce,california,https://www.tripadvisor.com/Restaurant_Review-g60713-d673218-Reviews-Spruce-San_Francisco_California.html,100,Spruce
+san francisco,State Bird Provisions,california,https://www.tripadvisor.com/Restaurant_Review-g60713-d2556798-Reviews-State_Bird_Provisions-San_Francisco_California.html,100,State Bird Provisions
+san francisco,Sushi Ran,california,https://www.tripadvisor.com/Restaurant_Review-g33062-d379256-Reviews-Sushi_Ran-Sausalito_Marin_County_California.html,100,Sushi Ran
+san francisco,Sushi Yoshizumi,california,https://www.tripadvisor.com/Restaurant_Review-g33031-d8054636-Reviews-Sushi_Yoshizumi-San_Mateo_California.html,100,Sushi Yoshizumi
+san francisco,Terra,california,https://www.tripadvisor.com/Restaurant_Review-g32655-d14167368-Reviews-Terra-Los_Angeles_California.html,100,Terra
+san francisco,Terrapin Creek,california,https://www.tripadvisor.com/Restaurant_Review-g32091-d621326-Reviews-Terrapin_Creek_Cafe-Bodega_Bay_Sonoma_County_California.html,85,Terrapin Creek Cafe
+san francisco,The Dining Room at the Ritz-Carlton,california,,76,The Terrace at The Ritz-Carlton
+san francisco,The French Laundry,california,https://www.tripadvisor.com/Restaurant_Review-g33300-d493634-Reviews-The_French_Laundry-Yountville_Napa_Valley_California.html,100,The French Laundry
+san francisco,The Kitchen,california,https://www.tripadvisor.com/Restaurant_Review-g32999-d492400-Reviews-The_Kitchen_Restaurant-Sacramento_California.html,100,The Kitchen Restaurant
+san francisco,The Progress,california,https://www.tripadvisor.com/Restaurant_Review-g60713-d7311918-Reviews-The_Progress-San_Francisco_California.html,100,The Progress
+san francisco,The Restaurant at Meadowood,california,https://www.tripadvisor.com/Restaurant_Review-g33000-d532483-Reviews-The_Restaurant_at_Meadowood-St_Helena_Napa_Valley_California.html,100,The Restaurant at Meadowood
+san francisco,The Village Pub,california,https://www.tripadvisor.com/Restaurant_Review-g33292-d368796-Reviews-The_Village_Pub-Woodside_California.html,100,The Village Pub
+san francisco,Trevese,california,,33,Mature Cabaret Michelin
+san francisco,Ubuntu,california,https://www.tripadvisor.com/Restaurant_Review-g32766-d794933-Reviews-Ubuntu-Napa_Napa_Valley_California.html,100,Ubuntu
+san francisco,Wako,california,https://www.tripadvisor.com/Restaurant_Review-g60713-d12248159-Reviews-Wako-San_Francisco_California.html,100,Wako
+san francisco,Wakuriya,california,https://www.tripadvisor.com/Restaurant_Review-g33031-d1047601-Reviews-Wakuriya-San_Mateo_California.html,100,Wakuriya
+washington dc,Blue Duck Tavern,washington dc,https://www.tripadvisor.com/Restaurant_Review-g28970-d622172-Reviews-Blue_Duck_Tavern-Washington_DC_District_of_Columbia.html,100,Blue Duck Tavern
+washington dc,Bresca,washington dc,https://www.tripadvisor.com/Restaurant_Review-g28970-d12896658-Reviews-Bresca-Washington_DC_District_of_Columbia.html,100,Bresca
+washington dc,Fiola,washington dc,https://www.tripadvisor.com/Restaurant_Review-g28970-d2137407-Reviews-Fiola-Washington_DC_District_of_Columbia.html,100,Fiola
+washington dc,Gravitas,washington dc,https://www.tripadvisor.com/Restaurant_Review-g28970-d15120606-Reviews-Gravitas-Washington_DC_District_of_Columbia.html,100,Gravitas
+washington dc,Inn at Little Washington,washington dc,https://www.tripadvisor.com/Restaurant_Review-g58290-d497947-Reviews-Inn_at_Little_Washington-Washington_Rappahannock_County_Virginia.html,100,Inn at Little Washington
+washington dc,Kinship,washington dc,https://www.tripadvisor.com/Restaurant_Review-g28970-d9714285-Reviews-Kinship_Restaurant-Washington_DC_District_of_Columbia.html,100,Kinship Restaurant
+washington dc,Komi,washington dc,https://www.tripadvisor.com/Restaurant_Review-g28970-d508794-Reviews-Komi-Washington_DC_District_of_Columbia.html,100,Komi
+washington dc,Little Pearl,washington dc,https://www.tripadvisor.com/Restaurant_Review-g28970-d13530641-Reviews-Little_Pearl-Washington_DC_District_of_Columbia.html,100,Little Pearl
+washington dc,Masseria,washington dc,https://www.tripadvisor.com/Restaurant_Review-g28970-d8671060-Reviews-Masseria-Washington_DC_District_of_Columbia.html,100,Masseria
+washington dc,Maydan,washington dc,https://www.tripadvisor.com/Restaurant_Review-g28970-d13008117-Reviews-Maydan-Washington_DC_District_of_Columbia.html,100,Maydan
+washington dc,Métier,washington dc,https://www.tripadvisor.com/Restaurant_Review-g28970-d10371749-Reviews-Metier-Washington_DC_District_of_Columbia.html,83,Metier
+washington dc,Pineapple & Pearls,washington dc,https://www.tripadvisor.com/Restaurant_Review-g28970-d10193621-Reviews-Pineapple_And_Pearls-Washington_DC_District_of_Columbia.html,89,Pineapple And Pearls
+washington dc,Plume,washington dc,https://www.tripadvisor.com/Restaurant_Review-g28970-d1518810-Reviews-Plume_at_The_Jefferson_Hotel-Washington_DC_District_of_Columbia.html,30,Plume at The Jefferson Hotel
+washington dc,Rose's Luxury,washington dc,https://www.tripadvisor.com/Restaurant_Review-g28970-d5461837-Reviews-Rose_s_Luxury-Washington_DC_District_of_Columbia.html,100,Rose's Luxury
+washington dc,Siren,washington dc,https://www.tripadvisor.com/Restaurant_Review-g28970-d12415914-Reviews-Siren-Washington_DC_District_of_Columbia.html,100,Siren
+washington dc,Sushi Nakazawa,washington dc,https://www.tripadvisor.com/Restaurant_Review-g28970-d15049682-Reviews-Sushi_Nakazawa-Washington_DC_District_of_Columbia.html,100,Sushi Nakazawa
+washington dc,Sushi Taro,washington dc,https://www.tripadvisor.com/Restaurant_Review-g28970-d450454-Reviews-Sushi_Taro-Washington_DC_District_of_Columbia.html,100,Sushi Taro
+washington dc,Tail Up Goat,washington dc,https://www.tripadvisor.com/Restaurant_Review-g28970-d10076070-Reviews-Tail_Up_Goat-Washington_DC_District_of_Columbia.html,100,Tail Up Goat
+washington dc,The Dabney,washington dc,https://www.tripadvisor.com/Restaurant_Review-g28970-d8825551-Reviews-The_Dabney-Washington_DC_District_of_Columbia.html,100,The Dabney
+washington dc,minibar,washington dc,https://www.tripadvisor.com/Restaurant_Review-g28970-d3861014-Reviews-Minibar_Washington_D_C-Washington_DC_District_of_Columbia.html,57,Barmini
